@@ -3,7 +3,7 @@
      margin: 0 auto; 
     border: 3px solid #d8dde1;
     padding: 0 15px 15px 15px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .header {
@@ -23,7 +23,7 @@
 }
 
 #create-account {
-font-size: 20px;
+font-size: 22px;
 
 }
 .image-section {
@@ -31,7 +31,7 @@ font-size: 20px;
  background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
-width: 300px;
+width: 400px;
 height: 50px;
 margin-top: 150px;
 
@@ -48,7 +48,6 @@ input {
 }
 label {
     color: blue;
-    margin-left: 5px;
    
 }
 
@@ -72,7 +71,7 @@ label {
 
 .footer {
     text-align: center;
-    color: #d8dde1;
+    color: #c1d0db;
 }
 #terms {
     color: #6658d3;
